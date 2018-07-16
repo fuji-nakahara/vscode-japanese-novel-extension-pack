@@ -15,5 +15,9 @@
         "fuji-nakahara.markdown-preview-fuji-styles",
         "fuji-nakahara.markdown-ruby"
     ],
-    "license": "MIT"
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/fuji-nakahara/vscode-japanese-novel-extension-pack"
+    }
 }
