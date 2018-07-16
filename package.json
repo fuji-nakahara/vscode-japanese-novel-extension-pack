@@ -14,5 +14,6 @@
         "ccnxpt.markdown-zenkaku-indent",
         "fuji-nakahara.markdown-preview-fuji-styles",
         "fuji-nakahara.markdown-ruby"
-    ]
+    ],
+    "license": "MIT"
 }
