@@ -1,0 +1,16 @@
+{
+    "name": "japanese-novel-extension-pack",
+    "displayName": "Japanese Novel Extension Pack",
+    "description": "VSCode extension pack for writing Japanese novels",
+    "version": "0.0.1",
+    "publisher": "fuji-nakahara",
+    "engines": {
+        "vscode": "^1.25.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionDependencies": [ 
+        "publisher.extensionName"
+    ]
+}
