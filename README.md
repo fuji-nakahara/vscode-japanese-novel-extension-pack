@@ -1,13 +1,9 @@
-# README
-## This is the README for your extension pack "japanese-novel-extension-pack"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Japanese Novel Extension Pack
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+This extension pack includes Markdown extentions to help you write Japanese novels.
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Extensions Included
 
-**Enjoy!**
+- [Markdown Zenkaku Indent](https://marketplace.visualstudio.com/items?itemName=ccnxpt.markdown-zenkaku-indent)
+- [Markdown Preview Fuji Styles](https://marketplace.visualstudio.com/items?itemName=fuji-nakahara.markdown-preview-fuji-styles)
+- [Markdown Ruby](https://marketplace.visualstudio.com/items?itemName=fuji-nakahara.markdown-ruby)
