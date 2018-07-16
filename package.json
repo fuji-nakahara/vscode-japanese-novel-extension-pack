@@ -2,7 +2,7 @@
     "name": "japanese-novel-extension-pack",
     "displayName": "Japanese Novel Extension Pack",
     "description": "VSCode extension pack for writing Japanese novels",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "publisher": "fuji-nakahara",
     "engines": {
         "vscode": "^1.25.0"
@@ -10,7 +10,7 @@
     "categories": [
         "Extension Packs"
     ],
-    "extensionDependencies": [ 
+    "extensionDependencies": [
         "ccnxpt.markdown-zenkaku-indent",
         "fuji-nakahara.markdown-preview-fuji-styles",
         "fuji-nakahara.markdown-ruby"
