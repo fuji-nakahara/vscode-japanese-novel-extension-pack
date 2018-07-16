@@ -11,6 +11,8 @@
         "Extension Packs"
     ],
     "extensionDependencies": [ 
-        "publisher.extensionName"
+        "ccnxpt.markdown-zenkaku-indent",
+        "fuji-nakahara.markdown-preview-fuji-styles",
+        "fuji-nakahara.markdown-ruby"
     ]
 }
